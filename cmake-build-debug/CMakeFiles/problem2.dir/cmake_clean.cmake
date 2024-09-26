@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/problem2.dir/problem2.cpp.obj"
-  "CMakeFiles/problem2.dir/problem2.cpp.obj.d"
-  "libproblem2.dll.a"
-  "problem2.exe"
-  "problem2.exe.manifest"
+  "CMakeFiles/problem2.dir/problem2.cpp.o"
+  "CMakeFiles/problem2.dir/problem2.cpp.o.d"
+  "problem2"
   "problem2.pdb"
 )
 

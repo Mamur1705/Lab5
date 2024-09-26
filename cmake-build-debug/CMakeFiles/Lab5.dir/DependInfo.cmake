@@ -8,13 +8,15 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/Lab5/main.cpp" "CMakeFiles/Lab5.dir/main.cpp.obj" "gcc" "CMakeFiles/Lab5.dir/main.cpp.obj.d"
-  "D:/Lab5/problem1.cpp" "CMakeFiles/Lab5.dir/problem1.cpp.obj" "gcc" "CMakeFiles/Lab5.dir/problem1.cpp.obj.d"
-  "D:/Lab5/problem2.cpp" "CMakeFiles/Lab5.dir/problem2.cpp.obj" "gcc" "CMakeFiles/Lab5.dir/problem2.cpp.obj.d"
-  "D:/Lab5/problem3.cpp" "CMakeFiles/Lab5.dir/problem3.cpp.obj" "gcc" "CMakeFiles/Lab5.dir/problem3.cpp.obj.d"
-  "D:/Lab5/problem6.cpp" "CMakeFiles/Lab5.dir/problem6.cpp.obj" "gcc" "CMakeFiles/Lab5.dir/problem6.cpp.obj.d"
-  "D:/Lab5/problem8.cpp" "CMakeFiles/Lab5.dir/problem8.cpp.obj" "gcc" "CMakeFiles/Lab5.dir/problem8.cpp.obj.d"
-  "D:/Lab5/problem9.cpp" "CMakeFiles/Lab5.dir/problem9.cpp.obj" "gcc" "CMakeFiles/Lab5.dir/problem9.cpp.obj.d"
+  "/Users/m.xushvaqtov/CLionProjects/Lab5/main.cpp" "CMakeFiles/Lab5.dir/main.cpp.o" "gcc" "CMakeFiles/Lab5.dir/main.cpp.o.d"
+  "/Users/m.xushvaqtov/CLionProjects/Lab5/problem1.cpp" "CMakeFiles/Lab5.dir/problem1.cpp.o" "gcc" "CMakeFiles/Lab5.dir/problem1.cpp.o.d"
+  "/Users/m.xushvaqtov/CLionProjects/Lab5/problem10.cpp" "CMakeFiles/Lab5.dir/problem10.cpp.o" "gcc" "CMakeFiles/Lab5.dir/problem10.cpp.o.d"
+  "/Users/m.xushvaqtov/CLionProjects/Lab5/problem11.cpp" "CMakeFiles/Lab5.dir/problem11.cpp.o" "gcc" "CMakeFiles/Lab5.dir/problem11.cpp.o.d"
+  "/Users/m.xushvaqtov/CLionProjects/Lab5/problem2.cpp" "CMakeFiles/Lab5.dir/problem2.cpp.o" "gcc" "CMakeFiles/Lab5.dir/problem2.cpp.o.d"
+  "/Users/m.xushvaqtov/CLionProjects/Lab5/problem3.cpp" "CMakeFiles/Lab5.dir/problem3.cpp.o" "gcc" "CMakeFiles/Lab5.dir/problem3.cpp.o.d"
+  "/Users/m.xushvaqtov/CLionProjects/Lab5/problem6.cpp" "CMakeFiles/Lab5.dir/problem6.cpp.o" "gcc" "CMakeFiles/Lab5.dir/problem6.cpp.o.d"
+  "/Users/m.xushvaqtov/CLionProjects/Lab5/problem8.cpp" "CMakeFiles/Lab5.dir/problem8.cpp.o" "gcc" "CMakeFiles/Lab5.dir/problem8.cpp.o.d"
+  "/Users/m.xushvaqtov/CLionProjects/Lab5/problem9.cpp" "CMakeFiles/Lab5.dir/problem9.cpp.o" "gcc" "CMakeFiles/Lab5.dir/problem9.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
