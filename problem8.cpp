@@ -2,25 +2,12 @@
 #include "time.h"
 //#include
 using namespace std;
-int main (){
-    //problem8
-//    int n;
-//    cin>>n;
-//    for(int i=1; i<=n; i++){
-//        cout<<i<<"*"<<i<<"="<<i*i<<endl;
-//    }
+int main () {
 
-//problem9
     int n;
     cin>>n;
-
-    int i=n;
-    while(i!=0){
-        cin>>i;
-        if(i>n){
-            n=i;
-        }
+    for(int i=1; i<=n; i++){
+        cout<<i<<"*"<<i<<"="<<i*i<<endl;
     }
-    cout<<"Max is "<<n;
     return 0;
 }

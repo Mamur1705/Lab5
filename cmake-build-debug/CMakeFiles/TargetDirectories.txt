@@ -1,5 +1,9 @@
-/Users/m.xushvaqtov/CLionProjects/Lab5/cmake-build-debug/CMakeFiles/Lab5.dir
-/Users/m.xushvaqtov/CLionProjects/Lab5/cmake-build-debug/CMakeFiles/problem1.dir
-/Users/m.xushvaqtov/CLionProjects/Lab5/cmake-build-debug/CMakeFiles/problem8.dir
-/Users/m.xushvaqtov/CLionProjects/Lab5/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/m.xushvaqtov/CLionProjects/Lab5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Lab5/cmake-build-debug/CMakeFiles/Lab5.dir
+D:/Lab5/cmake-build-debug/CMakeFiles/problem1.dir
+D:/Lab5/cmake-build-debug/CMakeFiles/problem8.dir
+D:/Lab5/cmake-build-debug/CMakeFiles/problem9.dir
+D:/Lab5/cmake-build-debug/CMakeFiles/problem6.dir
+D:/Lab5/cmake-build-debug/CMakeFiles/problem2.dir
+D:/Lab5/cmake-build-debug/CMakeFiles/problem3.dir
+D:/Lab5/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Lab5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
